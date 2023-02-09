@@ -1,0 +1,23 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Samurai",
+            "value": "Miyamoto Mushashi"
+        },
+        {
+            "trait_type": "Height",
+            "value" : "5.10"
+        },
+        {
+            "trait_type": "Skin Color",
+            "value" : "Creamy"
+        },
+        {
+            "trait_type" :"origin",
+            "value" : "Osaka"
+        }
+    ],
+    "description" : "The world's greatest Samurai.",
+    "image": "YOUR_IPFS_IMAGE_URL",
+    "name" : "Mushashi"
+}
